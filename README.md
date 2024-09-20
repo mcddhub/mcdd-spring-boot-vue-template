@@ -13,6 +13,7 @@
 
 ## Features ✨
 
+TODO
 
 ---
 
@@ -22,6 +23,7 @@
    ```bash
    git clone https://github.com/mcddhub/mcdd-spring-boot-vue-template.git --depth=1 && cd mcdd-spring-boot-vue-template
    ```
+
 ---
 
 ## Configuration 🛠
@@ -53,7 +55,8 @@ the [LICENSE](https://github.com/mcddhub/mcdd-spring-boot-vue-template/blob/main
 
 ## Support 💖
 
-If you find this project helpful, consider giving it a ⭐️ on [GitHub](https://github.com/mcddhub/mcdd-spring-boot-vue-template)!
+If you find this project helpful, consider giving it a ⭐️
+on [GitHub](https://github.com/mcddhub/mcdd-spring-boot-vue-template)!
 
 ---
 

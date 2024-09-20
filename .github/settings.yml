@@ -13,7 +13,7 @@ repository:
   homepage: https://mcddhub.github.io/mcdd-spring-boot-vue-template/
 
   # A comma-separated list of topics to set on the repository
-  topics: template, spring boot, vue
+  topics: template, spring-boot, vue
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
