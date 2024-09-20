@@ -21,7 +21,8 @@ TODO
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mcddhub/mcdd-spring-boot-vue-template.git --depth=1 && cd mcdd-spring-boot-vue-template
+   git clone https://github.com/mcddhub/mcdd-spring-boot-vue-template.git --depth=1
+   cd mcdd-spring-boot-vue-template
    ```
 
 ---
